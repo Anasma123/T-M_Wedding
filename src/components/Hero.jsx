@@ -19,11 +19,11 @@ export default function Hero() {
       {/* Content overlay */}
       <div className="relative z-10 flex flex-col items-center justify-center text-center px-6 py-16 w-full max-w-lg mx-auto">
 
-        {/* Monogram - T&M */}
+        {/* Monogram - T & M */}
         <div className="animate-fade-in-up mb-8">
-          <span className="font-script text-5xl sm:text-6xl md:text-7xl text-[#d4a574]"
+          <span className="font-script text-5xl sm:text-6xl md:text-7xl text-[#d4a574] tracking-wider"
                 style={{ textShadow: '0 2px 20px rgba(212, 165, 116, 0.5)' }}>
-            T&M
+            T &amp; M
           </span>
         </div>
 

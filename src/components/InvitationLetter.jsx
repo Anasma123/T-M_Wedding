@@ -6,12 +6,10 @@ export default function InvitationLetter() {
     <section id="invitation-letter-section" className="py-16 px-4 bg-white text-center">
       <div className="max-w-lg mx-auto">
         {/* Subtitle / Header */}
-        <p className="text-[#b8845a] text-xs tracking-[0.3em] uppercase font-medium mb-2 font-sans">
+        {/* <p className="text-[#b8845a] text-xs tracking-[0.3em] uppercase font-medium mb-2 font-sans">
           Wedding Invitation
-        </p>
-        <h2 className="font-cinzel text-2xl sm:text-3xl text-stone-800 font-semibold tracking-wide mb-2">
-          Invitation Letter
-        </h2>
+        </p> */}
+      
 
         {/* Ornament divider */}
         <div className="flex items-center justify-center gap-3 mb-8">
